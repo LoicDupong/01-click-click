@@ -2,7 +2,6 @@
 
 ## Description
 
-**MyTasksList** est une application simple de gestion de tâches en JavaScript Vanilla. Elle permet de :
 
 Vous devez programmer un petit système d’activation de boutons à l’intérieur d’un conteneur. À tout moment, un seul bouton peut être actif, visuellement indiqué par une classe CSS.
 
